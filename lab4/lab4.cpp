@@ -52,7 +52,7 @@ public:
 int main()
 {
 	int k;
-	child odin = { "Ivan","Sheguta",18 };
+	child odin = { "Yury","Mikhailov",18 };
 	Tiles privet = { "zxcv",134,100,102314 };
 	complex chislo = { 3.14, 148 };
 	double mod1, mod2;
